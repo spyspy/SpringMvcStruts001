@@ -1,4 +1,4 @@
-Build SpringMVC from Intellij
+Build SpringMVC from Intellij Example
 
 New Project ==> Spring ==> Spring MVC
 
